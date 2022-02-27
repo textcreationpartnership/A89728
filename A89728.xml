@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The northern queries from the Lord Gen: Monck his quarters; sounding an allarum, to all loyal hearts, and free-born English-men, Arms, arms, arms, in defence of our lives, laws, liberties, and parliaments; against the tyrannical power, and domination of the sword.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89728</idno>
+            <idno type="STC">Wing N1297</idno>
+            <idno type="STC">Thomason E1005_15</idno>
+            <idno type="STC">ESTC R203060</idno>
+            <idno type="EEBO-CITATION">99863148</idno>
+            <idno type="PROQUEST">99863148</idno>
+            <idno type="VID">115332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115332)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 149:E1005[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The northern queries from the Lord Gen: Monck his quarters; sounding an allarum, to all loyal hearts, and free-born English-men, Arms, arms, arms, in defence of our lives, laws, liberties, and parliaments; against the tyrannical power, and domination of the sword.</title>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the year of Englands confusions, and are to be sold at the sign of Wallingford-House, right against a free Parliament,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and conjectured publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "9ber [i.e. September] 7. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115332:1" rendition="simple:additions"/>
+            <p>The Northern QVERIES FROM The Lord Gen: Monck HIS QVARTERS; SOUNDING An <hi>Allarum,</hi> to all <hi>Loyal Hearts,</hi> and Free-born <hi>Engliſh</hi> men, Arms, Arms, Arms, In Defence of our <hi>Lives, Laws, Li<g ref="char:EOLhyphen"/>berties,</hi> and <hi>Parliaments;</hi>
+            </p>
+            <p>Againſt the <hi>Tyrannical Power,</hi> and <hi>Domination</hi> of the <hi>Sword.</hi>
+            </p>
+            <p>Printed in the Year of <hi>Englands</hi> Confuſions, and are to be ſold at the Sign of <hi>Wallingford</hi>-Houſe, right againſt A <hi>Free Parliament.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb facs="tcp:115332:2"/>
+            <pb n="3" facs="tcp:115332:2"/>
+            <head>Some neceſſary Queries: I.</head>
+            <p>WHether there can be any reaſon of interrupting the Parliament for any other cauſe, then their endeavours to deſtroy the Intereſt and Freedom of the three Nations, which cannot be reaſonably ſuſpected in ſo faith<g ref="char:EOLhyphen"/>full a Parliament?</p>
+            <p n="2">2 What one matter of Fact the Parliament have done to the prejudice of theſe Nations, that they ſhould be thus violently turned out of the Houſe by their own hired ſervants: Suppoſe the taking away of thoſe nine mens Commiſſions were an Errour in the Parliament, yet could it not be an Errour of ſuch a Magnitude, as to deſerve that they ſhould have the Doors ſhut upon them: is it reaſonable that the whole Soveraignty of theſe Nations ſhould be deſtroyed, and ſo the three Na<g ref="char:EOLhyphen"/>tions abuſed and left without all face of Government becauſe that wine men had their Commiſſions taken from them, moſt of them having been falſe to their truſt in time paſt, and ſeeing perſons of more truſt and faithfullneſs then nine, were pro<g ref="char:EOLhyphen"/>vided for their places, what prejudice could it be to the Nation?</p>
+            <p n="3">3 Whether theſe men which now cry peace, peace, and continue their taking mo<g ref="char:EOLhyphen"/>ney of the Nation, as Officers in the Army to defend their Maſters the Parlia<g ref="char:EOLhyphen"/>ment, and do yet ſuffer them to be interrupted, diſquieted <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or thruſt out of the Houſe, and alſo ſuffer the people to be inſlaved, and all unrighteouſneſs to raign whilſt they have the Sword in their hands: We ſay, Whether theſe men are not turned Cowards, and for fear of loſing their own Wealth, Cry peace, peace, while there is more cauſe to take up the Sword of Military Juſtice then ever; in defence of the Priviledges of Parliament and Freedoms of the People?</p>
+            <p n="4">4 Whether it was more a fault in the King to demand 5 Members, and to come with his Cavalry to diſturb the Parliament then in theſe men which have thruſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parliament out of Doors?</p>
+            <p n="5">5 Whether the Parli. have not as much right to diſpoſe of the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>litin and and Treaſure of the Nation now, as when they contended with the King for it?</p>
+            <p n="6">6 Whether they which took their Commiſſions from the Parliament at their late ſitting, did not therein own their Power to diſpoſe of Commiſſions, and ſo of the whole conduct of the Army?</p>
+            <p n="7">7 Whether thoſe men which have now Interrupted the Parliament have not ſinned againſt their own Conſciences, and betrayed their Truſt which was deliga<g ref="char:EOLhyphen"/>ted to them, which gave them their Commiſſions?</p>
+            <p n="8">8 Whether Sir <hi>G. Booth</hi> in oppoſing and endeavouring to deſtroy the Parlia<g ref="char:EOLhyphen"/>ment at ſuch a diſtance, and giving them a fair Engagement in the Field, where God might decide the Controverſie; or they, which came upon the Parliament at unawares, and turned them out at Doors, are the greateſt Offendors againſt the In<g ref="char:EOLhyphen"/>tereſt of theſe Nations?</p>
+            <p n="9">9 Whether if Sir <hi>G. Booth</hi> was carrying on a Deſign againſt God in his oppoſing
+<pb n="4" facs="tcp:115332:3"/>the Parliament and preſent Government, they alſo are not Deſigners againſt God, who when they had deſtroyed Sir <hi>G. Booths</hi> party, by killing ſome, and taking others priſoners, have themſelves done violence to the whole Parliament their Maſter which empowred them, and paid them their Wages. Was it worthy of death, and confiſcation in him and his party; and is it a virtue in theſe? Was it evil in the Parliaments Enemies to do violence unto them; and is it a vertue in ſuch as fought for them, and called themſelves the Parliaments faithful Servant, to interrupt the Parliament? Had <hi>Zimrey</hi> peace which fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w his Maſter?</p>
+            <p n="10">10 Whether thoſe peoples Conditions is worſt, who for differing in Religion from thoſe in Authority, have their goods taken away, and their perſons inſlaved by Tyrants; or theirs, which voluntarily make themſelves ſlaves in civil things, to the Luſts and Will of men, that they may have leave to diſter from them in matters of T<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h and Worſhip?</p>
+            <p n="11">11 Whether it was not the too ready complyance of the people of the Churches with <hi>Cromwel,</hi> which gave him the confidence to mount the Throne, &amp; ride them<g ref="char:EOLhyphen"/>ſelves and all the Nations at his pleaſure?</p>
+            <p n="12">12 Whether thoſe men then, and theſe people now, which call to the Churches for advice and help, ſeek any thing elſe but to be Maſters of the Nations, by their complyance with the Churches, and will inſlave the Churches themſelves at length?</p>
+            <p n="13">13 Whether the Grandees of the Army, can carry on this their Deſign againſt the Parliament without the help of the Churches; and whether they would have called in their help, if they would have carryed on their Deſign without them?</p>
+            <p n="14">14 Whether ſome men are not ſo ignorant, as to think they have Liberty of Conſcience when they have nor Liberty in their Perſons and Eſtates; as if Liberty of Conſcience were any other thing, then not to be puniſhed in their perſons and Eſtates for Conſcience ſake? Theſe men are not like <hi>Moſes</hi> and the people of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> who would not part with a half of their Civil Things, that they might have leave to worſhip God aright: which teacheth us not to ſurrender our Civil Rights to Tyrants, for the obtaining Liberty of Conſcience.</p>
+            <p n="15">15 Whether it's juſt that the whole Nation ſhould be made miſerable, by ha<g ref="char:EOLhyphen"/>ving all their civil Freedoms preſtitute to one or a few Mens Wills, that ſo ſome few of the whole Nation may have the Liberty of their Conſciences: The Liber<g ref="char:EOLhyphen"/>ty of theſe men coſt dear, which is purchaſed with no leſs then the inſlaving of the whole Nation in their Perſons and Eſtates.</p>
+            <p n="16">16 Seeing the <hi>Militia</hi> conſiſteth of, and is maintained by the good people of theſe Nations out of their own purſes (which ought to have no Maſter but them<g ref="char:EOLhyphen"/>ſelves) any but their Truſtees aſſembled in a High Court of Parliament ought to have the diſpoſe thereof?</p>
+            <p n="17">17 Whether its reaſonable that the Grandees of the Army, which are part of the <hi>Militia,</hi> ſhould have the diſpoſe of it, otherwiſe then as ſervants to them, which pay them their wages?</p>
+            <p n="18">18 Whether the people may not well expect, that they which have taken the power to appoint General-Officers to the Army (to the increaſe of the charge of the State) ſhould pay thoſe men their extraordinary wages? And why may not the Parl. contend with the Grandees of the Army, for the diſpoſe of the Militia, as well as with the King, and expect a Bleſſing of God upon their Engagement?</p>
+            <pb n="5" facs="tcp:115332:3"/>
+            <p n="19">19 Whether the aſperſions which are raiſed on the Parliament, are not invented on purpoſe to deceive the people, and make them believe the Parl, were not turned out of the Houſe, onely for taking away 8 or 9 mens Commiſſions, but that they deſerved to be turned out, and that it's no Treaſon in the Grandees ſo to do?</p>
+            <p n="20">20 Whether any one thing of which the Parl is aſperſed be true, or not? As firſt: How can they be ſuſpected to intend to perſecute any man for his Religion, ſeeing they free all the Quakers, and ſuch as were in priſon, for not paying of Tythes; and have in their Reſolve <hi>Octob.</hi> 10.59. concluded that it's not del<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gated to them to conſtrain in matters of Religion?</p>
+            <p n="21">21 And how can the Parliament juſtly be accuſed, as having done little, ſeeing they ſo diligently and daily ſerved the people at their own charge? Will not every Book of our Weekly Intelligence witneſs againſt theſe men as very Lyers; &amp; that any ſhould take the confidence to brand them with the Name of Presbyterians, who themſelves are not willing, that their own Religion ſhould be ſet as a brand on themſelves? Do men cry out againſt perſecution, and will they perſecute them which have the Soveraignty of Three Nations?</p>
+            <p n="22">22 How can the not bringing Sir <hi>G. Booth</hi> and his party to a Tryal, be charged upon them, ſeeing the Report of his buſineſs was not brought into the Parliament above 9 days before they were laſt interrupted? If it had: yet how could they have brought him to a Tryal before the Term; except they ſhould have ſet up a High-Court of Juſtice, contrary to all Law and Right?</p>
+            <p n="22">22 Whether thoſe Officers of the Army, which in their Propoſals to the Parlia<g ref="char:EOLhyphen"/>ment, deſired that a Law might be made, That no Officers of the Army might be put out of their Employment, without being tryed at a Court-Martial? Have not they acted againſt their own Law, Reaſon putting by their Commands divers ho<g ref="char:EOLhyphen"/>nourable Officers of the Army, all perſons of unſpotted lives, and men of great Truſt and Faithfulneſs, and that without ſo much as either Tryal, Examination, or any Charge againſt them; but becauſe they were faithful to their Maſters the Par<g ref="char:EOLhyphen"/>liament, and would not betray their Truſt repoſed in them: And whether there is not more reaſon, thoſe 9 mere<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nary men ſhould leave their Commiſſions, then the Parliament ſhould be turned out of the Houſe?</p>
+            <p n="24">24 Whether in the Armies Plea, page the 10. where they excuſe themſelvs from the Imputation of being againſt a godly and learned Miniſtery, be not a flattering and cogging with the Prieſts of the Nation, who they muſt in will take along with them in this their Treaſonable Work, rather then fail?</p>
+            <p n="25">25 Whether God may not juſtly bring a grievous Plague of Warre and Ruine upon all thoſe men in theſe Nations, who have ventured their own lives, &amp; ſlain many a man in the defence of the Priviledges of Parliament, <hi>(viz.)</hi> that the Par<g ref="char:EOLhyphen"/>liament might ſit and vote free; and diſpoſe of the Militia and Treaſure of theſe Nations, if ſuch men ſhould now ſtand Neuters, and not ſtand up for the <hi>Good old Cauſe</hi> again; which is the Priviledges of Parliament, and Freedoms of the Peo<g ref="char:EOLhyphen"/>ple? And they deceive us which pretend to be for the <hi>Good Old Cauſe,</hi> without theſe two?</p>
+            <p n="26">26 Whether the good people of this Nation can conceive this difference 'twixt Parliament and Army, (whereupon the Parliament was interrupted) to be any other then a perſonal quarrel? If ſo, Whether they are not as much engaged in Conſcience Equity, and Juſtice, to own the Parliament, and ſtand by them now,
+<pb n="6" facs="tcp:115332:4"/>as at any other time, in the doing of Juſtice upon all thoſe that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the King and his Party?</p>
+            <p n="27">27 Whether the Nomination of 13 men by thoſe ſo formerly named to that Work by part of the Officers of the Army to be propounded to the Council of the Officers, as they are pleaſed to call themſelves, can reaſonably oblige, by any Co<g ref="char:EOLhyphen"/>lour of Law or Reaſon, the Body of A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herents to the Cauſe, or any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndividual Member whoſe conſent is nor, nor is like to be obtained thereunto?</p>
+            <p n="28">28 Whether our Commonwealth is not reduc'd (after ſo high and ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lant Copteſts in Councils, and in the Field, for Common-Good) into a pittiful narrow compaſs, whileſt the Foundations muſt be laid by a part of the Officers of the Ar<g ref="char:EOLhyphen"/>my, where 5 or 6 rule all the reſt, and ſway them to ſuch things, as may lay the Foundation of their own greatneſs, not the peoples good, the ſatiating and accom<g ref="char:EOLhyphen"/>pliſhment of their own ambitious, covetous, and revengful deſires and deſigns, nor the good peoples peace ſatisfaction, or ſettlement?</p>
+            <p n="29">29 What is the real true difference 'twixt the Turks Jan ſuries, and that part of our Engliſh Army, that have attempted ſo highly lately againſt their Maſters the Parliament of the Commonwealth of <hi>England,</hi> and go about to ſet up others of their own making: And if ſo, let the good people of this Nation conſider with what ſafety honour, or Conſcience, they can partake with them in this Evil: <hi>Partake not with them in their ſins, leſt ye partake with them in their Plagues.</hi>
+            </p>
+            <p n="30">30 Whether in point of ſafety, ye can joyn with them in the ruining of this Parliament, that was the ſtrongeſt Bulwork, (if not the onely) the Nation had a<g ref="char:EOLhyphen"/>gainſt the Common-Enemy, the hopefulleſt Supporters, Aſſertors, and Pillars of our Laws, Rights and Freedoms, as Men and Chriſtians?</p>
+            <p n="31">31 Whether in point of honour, and honeſty, or a good Concience, ye having owned them, your A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dreſſes to them, receiving Laws from them, profeſſing Obe<g ref="char:EOLhyphen"/>dience, together with all faithfulneſs and ſincerity, in taking your Commiſſions from them, and acting under their Authority, even to bloud?</p>
+            <p n="32">32 Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther ye do not inevitably contract the guilt of all the bloud ſpilt in the late Wars, in the quarrel of this Parliament againſt the King and his party, and juſtifie the Enemy and their proceedings, and condemn your ſelves, and all your actings, for the vindication of the Parliament, and our Common Right and Liber<g ref="char:EOLhyphen"/>ties?</p>
+            <p n="33">33 If ſo: Whether then ye may nor expect certain and ſuddain deſtruction, as a B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſom to ſweep you away, guilt of bloud crying with ſuch a loud Voice in the Ears of God, who is powerful to revenge it?</p>
+            <p n="34">34 Whether the <hi>Armies Plea,</hi> be not a Play at Foot-ball, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſing the <hi>Good Old Cauſe</hi> too and fro, ſometimes in the ſtinking Kennel of their own ſelfiſh &amp; corrupt Intereſts; ſometimes up the Tops of the Fabricks of their New raiſed Deſigns and Projects, &amp;c?</p>
+            <p n="35">35 Whether ever any Common-wealth will truſt the Baptized Churches a<g ref="char:EOLhyphen"/>gain, ſeeing they have dealt thus perſideouſly with the Honourable Parliament, (who as the Fathers of the Nation) were pleaſed to put part of the Militia into their hands for the ſecurity of the Priviledges of Parliament, and Freedoms of all men, againſt Domeſtick and Forreign Enemies; yet they have malitiouſly and ſhamefully betrayed their Truſt, in oppoſing the Parliament, from whom they had
+<pb n="7" facs="tcp:115332:4"/>their Commiſſions; and have fided with thoſe Traytors which interrupted the Parliament in <hi>October,</hi> 13.59. which will be as a Brand upon the Church-men for ever, except they come in, and now appear with General <hi>Monck,</hi> and the reſt of the true <hi>Engliſh</hi>-men, for the re-eſtaliſhing the Parliament?</p>
+            <p n="36">36 If this Parliament was Conſtituted by all the Authority of the Three Na<g ref="char:EOLhyphen"/>tions; and in an Act made by King, Lords, and Commons, was eſtabliſhed in their Parliamentary Power, and not to be interrupted, adjourned; prorogued, or diſſolved, but by their own Conſent (by which the Negative Vote of King and Houſe of Lords was made void) and an Act, making all men Traytors, which have, or ſhall interrupt them: then whether theſe are not guilty of High-Treaſon, which did interrupt them, <hi>Octob.</hi> 13. 1659.</p>
+            <p n="37">37 Whether ever God did more ſignally own and bleſſe any Conſult <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on of Men in <hi>England,</hi> than <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath done this Parliament?</p>
+            <p n="38">38 Whether the Army in their declining the Parliament, have not been put to grievous ſhifts, and forced to run from one indirect courſe to another, till they have become the Hate of the People, and terr ble to each other; as at this day?</p>
+            <p n="39">39 Whether the Nine Officers which had their Commiſſions made <hi>Null.</hi> and <hi>Void,</hi> had been humble ſelf-denying Men fearing GOD; they would not rather have ſurrendred their Commiſſions, than to have turned the Parliament out of Doors, and then invent Lyes of the Parliament to excuſe Themſelves?</p>
+            <p n="40">40 Whether theſe men, <hi>quondam</hi> Officers of the Army, which are the Ring<g ref="char:EOLhyphen"/>leaders of this late Rebellion againſt the Parliament, have any Comm ſſion for what they now do; ſeeing the Parliament which gave them their Commiſſions, have taken them away again? And for whom, or what thoſe men ſight, which en<g ref="char:EOLhyphen"/>gage for <hi>Lambert, Packer,</hi> and the reſt?</p>
+            <p n="41">41 Whether thoſe Nine <hi>quondam</hi> Officers of the Army; as <hi>Lambert,</hi> &amp;c. which have improved their Intereſt, to turn out the Parliament; and by that meane caſt the Three Nations into a woful Confuſion, and an Attempt to make a New War, have not forgot how in their Diſcourſes, both publick and private, they have inveighed againſt ſhedding of more bloud, and cryed out for <hi>Peace, Peace,</hi> theſe Eight Years; and whether they will not now rather ſhed the bloud of any man, then lay down their Commiſſions, and expoſe themſelves to the Juſtice or Mercy of the Parliament?</p>
+            <p n="42">42 Whether the Things called the <hi>Plea</hi> and <hi>Declaration</hi> of the Army be not unſatisfactory, doth emply Things which do no more juſtifie them in their Acti<g ref="char:EOLhyphen"/>ons, or ſatisfie the people, then if they had cryed, <hi>Boh?</hi>
+            </p>
+            <p n="43">43 Whether if theſe pretended New-Stateſ-men, and ſometimes Officers of the Army, had a mind to do any good for the Nation, in Reforming the Law, or taking away of Tythes, they would have conſulted with corrupt Lawyers about their preſent Work, or have ſent a Company of perfideous Fellows, ſuch as <hi>Goff</hi> and <hi>Whalley;</hi> and Hypocritical Prieſts, ſuch as <hi>Nye</hi> and <hi>Owen,</hi> and the reſt, as Com<g ref="char:EOLhyphen"/>miſſioners to treat with the Noble General <hi>Monck,</hi> as they have done: Which makes me remember the Counſel of <hi>Iſaiah</hi> the Prophet; <hi>Say not a Confederacy with them, with whom theſe men ſay a Confederacy; but ſanctifie the Lord of Hoſt in your hearts,</hi> &amp;c.</p>
+            <pb n="8" facs="tcp:115332:5"/>
+            <p n="44">44 And although <hi>Cromwel</hi> durſt interrupt Parliaments, and uſurp Authority, a theſe men have proudly done; yet, Whether He durſt repeal any firm Laws, made by a full Vote of the Honourable Houſe of Parliament; as theſe have pre<g ref="char:EOLhyphen"/>tended to do in their ſimple Declaration lately put forth?</p>
+            <p n="45">45 Whether ever there was ſuch Hypocrites in the World, as theſe men of the Churches and Army, which took Commiſſions of our Honourable Parliament, and owned them for the Supreme Authority of the Nation; and yet now to colour over their Treaſon and Rebellion, deny them to be a lawful Parliament?</p>
+            <p n="46">46 With what Conſcience the Souldiers can fight againſt the Parliament with theſe Nine <hi>quondam</hi> Officers, ſeeing that the Quarrel is onely to uphold their Commiſſions and Greatneſs? And what a ſad Account will theſe Soules give to God at the laſt Day, that ſhall kill or be killed in this Quarrel?</p>
+            <p n="47">47 Whether the men called the <hi>Committee of Safety,</hi> will not be found Traytors in the Eye of the Law, and of all the honeſt men in <hi>England;</hi> and whether it's not the Higheſt Treaſon that ever was heard of, for them to make Laws or Procla<g ref="char:EOLhyphen"/>mations; or for people to obey them?</p>
+            <p n="48">48 Whether all the people that pay money, as well as they which Levy Mo<g ref="char:EOLhyphen"/>ney, without Authority of Parliament, be not all alike Traytors, <hi>Let all ſober peo<g ref="char:EOLhyphen"/>ple judge</hi>
+            </p>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
